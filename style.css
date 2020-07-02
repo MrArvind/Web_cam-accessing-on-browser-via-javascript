@@ -1,0 +1,30 @@
+    #container {
+        height: 650px;
+        width: 450px;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        border-radius: 6px;
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        overflow: hidden;
+        display: inline-block;
+    }
+    /* #btn {
+    position: relative;
+    background: lightskyblue;
+    color: white;
+    border-radius: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    right: 10px;
+    bottom: 5px;
+} */
+    
+    #ak {
+        text-align: left;
+    }
